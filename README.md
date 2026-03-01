@@ -46,6 +46,8 @@ Website terdiri dari tiga bagian utama:
 
 Desain menggunakan konsep **Elegant Feminine Theme** dengan warna dominan **Maroon Gradient**.
 
+Link Website: https://bitasabita.github.io/Mini_Project_1_PBW/
+
 ---
 
 # 🛠 Teknologi yang Digunakan
