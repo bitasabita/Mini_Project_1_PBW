@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌸 Mini Project 1 — Portfolio Website  
+# 🌸 Mini Project 1 — Portofolio Website  
 
-### 🎨 Personal Portfolio Web Application  
+### 🎨 Personal Portofolio Web Application  
 💻 HTML • CSS • Bootstrap • Vue JS  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A1C1C,100:C04848&height=180&section=header&text=Tsabitah%20Kawiswara%20Portfolio&fontSize=30&fontColor=ffffff" />
@@ -33,7 +33,7 @@
 
 ---
 
-# 🌐 Portfolio Website Overview
+# 🌐 Portofolio Website Overview
 
 Website Portfolio ini merupakan website statis yang dibuat menggunakan **HTML, CSS, Bootstrap 5, dan Vue JS**.  
 Website ini bertujuan untuk menampilkan identitas diri, pengalaman, keterampilan, dan sertifikat secara visual dengan desain modern, elegan, dan responsif.
