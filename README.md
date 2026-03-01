@@ -61,9 +61,7 @@ width="700"
 style="border-radius:18px;
 box-shadow:0 8px 25px rgba(107,15,26,0.25);
 border:4px solid #f5f5f5;" />
-
 <br><br>
-
 <b>Gambar 1. Tampilan Home Section</b>
 
 </div>
@@ -102,9 +100,7 @@ style="border-radius:18px;
 box-shadow:0 8px 25px rgba(107,15,26,0.25);
 border:4px solid #f5f5f5;
 margin:10px;" />
-
 <br><br>
-
 <b>Gambar 2. Tampilan About Me Section</b>
 
 </div>
@@ -141,12 +137,11 @@ width="700"
 style="border-radius:18px;
 box-shadow:0 8px 25px rgba(107,15,26,0.25);
 border:4px solid #f5f5f5;" />
-
 <br><br>
-
 <b>Gambar 3. Tampilan Certificates Section</b>
 
 </div>
+
 ### Penjelasan
 
 Halaman Certificates menampilkan daftar sertifikat dalam bentuk **card layout grid** menggunakan Bootstrap.
@@ -293,9 +288,7 @@ width="700"
 style="border-radius:12px;
 box-shadow:0 6px 18px rgba(0,0,0,0.2);
 border:3px solid #eee;" />
-
 <br><br>
-
 <b>Gambar 4. Navbar Website</b>
 
 </div>
@@ -368,9 +361,7 @@ width="650"
 style="border-radius:12px;
 box-shadow:0 6px 18px rgba(0,0,0,0.2);
 border:3px solid #eee;" />
-
 <br><br>
-
 <b>Gambar 5. Gallery pada Home Section</b>
 
 </div>
@@ -435,9 +426,7 @@ width="350"
 style="border-radius:12px;
 box-shadow:0 6px 18px rgba(0,0,0,0.2);
 border:3px solid #eee;" />
-
 <br><br>
-
 <b>Gambar 6. Frame Foto Profil</b>
 
 </div>
@@ -483,9 +472,7 @@ width="600"
 style="border-radius:12px;
 box-shadow:0 6px 18px rgba(0,0,0,0.2);
 border:3px solid #eee;" />
-
 <br><br>
-
 <b>Gambar 7. Timeline Education & Experience</b>
 
 </div>
@@ -523,9 +510,7 @@ width="650"
 style="border-radius:12px;
 box-shadow:0 6px 18px rgba(0,0,0,0.2);
 border:3px solid #eee;" />
-
 <br><br>
-
 <b>Gambar 8. Skills Progress Bar</b>
 
 </div>
@@ -563,9 +548,7 @@ width="700"
 style="border-radius:12px;
 box-shadow:0 6px 18px rgba(0,0,0,0.2);
 border:3px solid #eee;" />
-
 <br><br>
-
 <b>Gambar 9. Certificate Card Layout</b>
 
 </div>
@@ -617,9 +600,7 @@ width="600"
 style="border-radius:12px;
 box-shadow:0 6px 18px rgba(0,0,0,0.2);
 border:3px solid #eee;" />
-
 <br><br>
-
 <b>Gambar 10. Footer Website</b>
 
 </div>
