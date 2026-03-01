@@ -5,7 +5,7 @@
 ### 🎨 Personal Portofolio Web Application  
 💻 HTML • CSS • Bootstrap • Vue JS  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A1C1C,100:C04848&height=180&section=header&text=Tsabitah%20Kawiswara%20Portfolio&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A1C1C,100:C04848&height=180&section=header&text=Tsabitah%20Kawiswara%20Portofolio&fontSize=30&fontColor=ffffff" />
 
 <br>
 
