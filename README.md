@@ -48,6 +48,16 @@ Desain menggunakan konsep **Elegant Feminine Theme** dengan warna dominan **Maro
 
 ---
 
+# 🛠 Teknologi yang Digunakan
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Vue JS (CDN)
+- Google Fonts
+
+---
+
 # 🎨 Dokumentasi Tampilan Website
 
 ---
@@ -157,15 +167,6 @@ Data sertifikat ditampilkan menggunakan Vue JS sehingga dapat diubah melalui Jav
 
 ---
 
-# 🛠 Teknologi yang Digunakan
-
-- HTML5
-- CSS3
-- Bootstrap 5
-- Vue JS (CDN)
-- Google Fonts
-
----
 
 # 🧠 Penjelasan Kode Setiap Section (Detail)
 
